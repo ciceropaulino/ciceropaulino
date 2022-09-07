@@ -1,5 +1,5 @@
 ## Hello there!
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/ciceropaulino">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=outrun"/>
