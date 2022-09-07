@@ -1,6 +1,6 @@
 <img align="center" alt="gif" style="border-radius:50px;" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*s46fPs1MpC0hC9E6hI8_dQ.gif">
 
-## Hello there!
+# _Hello there!_
 
 <img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.dribbble.com/users/102974/screenshots/1974070/media/52c444f0346954a393ac94ca4c0b9016.gif">
 
