@@ -18,14 +18,10 @@ as well as the study of operating systems.
 
 <div align="center">
   <a href="https://github.com/ciceropaulino">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
 </div>
-<div align="center">
-  <img height="180em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
-</div>
-  
+
  ## Languages and tools
   
 <div align="center" style="display: inline_block"><br>
@@ -38,6 +34,7 @@ as well as the study of operating systems.
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="C language" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="C language" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 
 ##
