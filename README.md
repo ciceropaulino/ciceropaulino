@@ -12,6 +12,7 @@ as well as the study of operating systems.
 
 🧠 I am open to many opportunities to expand my knowledge.
 
+##
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ciceropaulino">
