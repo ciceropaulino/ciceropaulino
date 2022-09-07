@@ -1,18 +1,19 @@
 <img align="center" alt="gif" style="border-radius:50px;" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*s46fPs1MpC0hC9E6hI8_dQ.gif">
 
-# _Hello there!_
+## Hello there!
 
 <img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.dribbble.com/users/102974/screenshots/1974070/media/52c444f0346954a393ac94ca4c0b9016.gif">
 
-🎓 An Information Technology student moving towards Computer Science.
+- 🎓 An Information Technology student moving towards <br> 
+Computer Science.
 
-📑 Currently studying Google Data Analytic training.
+- 📑 Currently studying Google Data Analytic training.
 
-💻 I have kept my focus and studies in areas <br>
+- 💻 I have kept my focus and studies in areas <br>
 such as back-end, data science, cyber security and front-end, <br> 
 as well as the study of operating systems.
 
-🧠 I am open to many opportunities to expand my knowledge.
+- 🧠 I am open to many opportunities to expand my knowledge.
 
 ##
 
