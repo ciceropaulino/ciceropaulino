@@ -16,8 +16,12 @@ as well as the study of operating systems.
 
 <div align="center">
   <a href="https://github.com/ciceropaulino">
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=swift"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img height="" width="700" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
 </div>
   
  ## Languages and tools
