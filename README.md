@@ -1,12 +1,12 @@
 ## Hello there!
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/qXfitpF.gif" >
+<img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.dribbble.com/users/102974/screenshots/1974070/media/52c444f0346954a393ac94ca4c0b9016.gif">
 
 🎓 An Information Technology student moving towards computer science.
 
 📑 Currently studying Google Data Analytic training.
 
-💻 Currently I have kept my focus and studies in areas <br>
+💻 I have kept my focus and studies in areas <br>
 such as back-end, data science, cyber security and front-end, <br> 
 as well as the study of operating systems.
 
