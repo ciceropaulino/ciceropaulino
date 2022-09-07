@@ -4,7 +4,7 @@
 
 <img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.dribbble.com/users/102974/screenshots/1974070/media/52c444f0346954a393ac94ca4c0b9016.gif">
 
-🎓 An Information Technology student moving towards computer science.
+🎓 An Information Technology student moving towards Computer Science.
 
 📑 Currently studying Google Data Analytic training.
 
@@ -18,11 +18,12 @@ as well as the study of operating systems.
 
 <div align="center">
   <a href="https://github.com/ciceropaulino">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img height="180em" width="400em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
+  <img height="180em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
 </div>
   
  ## Languages and tools
