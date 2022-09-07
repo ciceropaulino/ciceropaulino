@@ -1,3 +1,5 @@
+<img align="center" alt="gif" style="border-radius:50px;" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*s46fPs1MpC0hC9E6hI8_dQ.gif">
+
 ## Hello there!
 
 <img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.dribbble.com/users/102974/screenshots/1974070/media/52c444f0346954a393ac94ca4c0b9016.gif">
@@ -16,12 +18,11 @@ as well as the study of operating systems.
 
 <div align="center">
   <a href="https://github.com/ciceropaulino">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceropaulino&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 <div align="center">
-  <img height="" width="700" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
+  <img height="180em" width="400em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
 </div>
   
  ## Languages and tools
