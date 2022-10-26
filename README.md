@@ -13,6 +13,8 @@ as well as the study of operating systems.
 
 - 🧠 I am open to many opportunities to expand my knowledge.
 
+
+
 ##
 
 <div align="center">
