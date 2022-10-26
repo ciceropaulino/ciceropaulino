@@ -7,10 +7,8 @@
 - 🎓 An Information Technology student moving towards <br> 
 Computer Science.
 
-- 📑 Currently studying Google Data Analytic training.
-
 - 💻 I have kept my focus and studies in areas <br>
-such as back-end, data science, cyber security and front-end, <br> 
+such as back-end, cyber security and front-end, <br> 
 as well as the study of operating systems.
 
 - 🧠 I am open to many opportunities to expand my knowledge.
