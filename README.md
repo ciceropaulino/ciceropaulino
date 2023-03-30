@@ -18,8 +18,8 @@ as well as the study of operating systems.
 
 <div align="center">
   <a href="https://github.com/ciceropaulino">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciceropaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ciceropaulino&theme=tokyonight"/>
 </div>
 
  ## Languages and tools
