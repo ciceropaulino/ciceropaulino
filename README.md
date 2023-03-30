@@ -1,4 +1,3 @@
-<img align="center" alt="gif" style="border-radius:50px;" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*s46fPs1MpC0hC9E6hI8_dQ.gif">
 
 ## Hello there!
 
