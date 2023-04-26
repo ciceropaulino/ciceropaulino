@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="icons mac" width="800" style="border-radius:50px;" src="https://www.creads.com/wp-content/uploads/2021/05/header-4-2.jpg">
+  <img align="center" alt="icons mac" width="900" style="border-radius:50px;" src="https://creativesessions.s3.amazonaws.com/content/2010/cs4_interface_design/article_icon_guide/article_icon_guide_1_2/part1/xerox_star_8010.jpg">
 </div> 
 
 ## Hello there!
