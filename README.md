@@ -1,3 +1,6 @@
+<div align="center">
+  <img align="center" alt="icons mac" height="150" style="border-radius:50px;" src="https://www.crestock.com/uploads/blog/2007/mac-icons-kare.gif">
+</div> 
 
 ## Hello there!
 
