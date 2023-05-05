@@ -6,6 +6,8 @@
 
 <img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.dribbble.com/users/102974/screenshots/1974070/media/52c444f0346954a393ac94ca4c0b9016.gif">
 
+<div align="left">
+  
 - 🎓 An Information Technology student. <br> 
 
 - 💻 I have maintained my study focus and interest <br>
@@ -15,7 +17,7 @@ and trying to understand how the different areas of computer <br>
 science work and function. <br>
 
 - 🧠 I am open to many opportunities to expand my knowledge.
-
+</div>
 <br>
 
 
