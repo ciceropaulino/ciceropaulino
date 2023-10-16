@@ -14,7 +14,7 @@
 in areas such as software engineering, algorithms, <br>
 operating systems and back-end. But I'm always researching <br>
 and trying to understand how the different areas of computer <br>
-science work and function. <br>
+science works. <br>
 
 - 🧠 I am open to many opportunities to expand my knowledge.
 </div>
