@@ -1,7 +1,7 @@
 
 ## Hello there!       <img align="left" alt="gif" height="70" style="border-radius:50px;" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif">
 <br>
-<img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
+<img align="right" alt="gif" height="220" style="border-radius:50px;" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
 <div align="left">
   
