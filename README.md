@@ -8,8 +8,8 @@
 - 🎓 An Information Technology student. <br> 
 
 - 💻 I have maintained my study focus and interest <br>
-in areas such as DevOps,OS Dev, algorithms, <br>
-operating systems and back-end. 
+in areas such as DevOps, OS Dev, algorithms, <br>
+operating systems and security. 
 
 - 🧠 I am open to many opportunities to expand my knowledge.
 </div>
