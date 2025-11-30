@@ -2,7 +2,7 @@
 <br>
 <img align="right" alt="gif" height="220" style="border-radius:50px;" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
-> This is my secondary repository used only for college and work projects. My main git repository is on [CodeBerg](https://codeberg.org/ciceropaulino).
+> My GitHub projects are gradually being moved to my [CodeBerg](https://codeberg.org/ciceropaulino).
 
 <div align="left">
   
