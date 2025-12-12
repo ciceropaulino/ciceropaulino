@@ -2,8 +2,6 @@
 <br>
 <img align="right" alt="gif" height="220" style="border-radius:50px;" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
-> My GitHub projects are gradually being moved to my [CodeBerg](https://codeberg.org/ciceropaulino).
-
 <div align="left">
   
 - University student, currently working toward my first degree. <br>
